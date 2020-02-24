@@ -1,0 +1,33 @@
+.navbar {
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.2rem;
+    font-size: 1.0rem;
+    font-weight: bold;
+}
+#section-about-us{
+    background-image: url("../images/cake3.jpg");
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
+    margin-top: 50px;
+    overflow: hidden;
+}
+section-about-us p{
+    margin-top: 50px;
+    font-size: 2.0rem;
+    font-weight: bold;
+
+}
+#section-footer{
+    background-color: rgba(138, 43, 226, 0.04);
+    text-align: center;
+    font-size: .9rem;
+    font-weight: bold;
+    padding-top:30px;
+}
+#carouselExampleIndicators img{
+    height: 90vh;
+    width: 100%;
+}
+/*end of carousel*/
